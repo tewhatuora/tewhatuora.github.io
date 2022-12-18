@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /fhir-fe-poc-pages/
